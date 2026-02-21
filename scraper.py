@@ -1,3 +1,5 @@
+gspread
+oauth2client
 import requests
 import logging
 import os
